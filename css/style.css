@@ -1,3 +1,5 @@
 #audio {
-  background: red;
+    background: red;    
+    margin: auto;
+    display: block;
 }
