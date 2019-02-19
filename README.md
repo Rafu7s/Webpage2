@@ -9,4 +9,4 @@ STATUS: In development
 using CSS as well.
 
 
-[@alfa v in production](https://rafu7s.github.io/Webpage2/)
+[@alpha v in production](https://rafu7s.github.io/Webpage2/)
