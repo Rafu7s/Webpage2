@@ -6,14 +6,14 @@ body {
 }
 
 #audio {
-    background: red;    
-    margin: auto;
-    display: block;
+   background: red;    
+   margin: auto;
+   display: block;
 }
 
 #login {
- text-align: center;   
- margin: 300px 0;
+   text-align: center;   
+   margin: 300px 0;
  }
 
 h1 span {
