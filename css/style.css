@@ -25,7 +25,6 @@ h1 span {
 h1 {
    font-size: 15pt;
    color: #20bcd5;
-   text-align: center;
    padding: 18px 0;
    margin: 0 0 10px 0;
 }
@@ -33,8 +32,13 @@ h1 {
 #contacts img {
     height: 50px;
     width: 50px;
-    margin-left: 7px;
-    margin-right: 7px;
+    margin: 0 7px;
 }
+
+#contacts {
+   text-align: center;
+}
+
+
 
 
