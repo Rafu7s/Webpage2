@@ -50,5 +50,6 @@ h1 {
 
 .section {
  background-color: #fff;  
+ border-radius: 10px;
 }
 
