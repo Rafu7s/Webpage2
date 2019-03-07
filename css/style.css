@@ -10,6 +10,7 @@ body {
 }
 
 #audio {   
+   background-color: red;
    margin: auto;
    display: block;
 }
