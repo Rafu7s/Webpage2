@@ -9,8 +9,7 @@ body {
    margin: 0;
 }
 
-#audio {
-   background: red;    
+#audio {   
    margin: auto;
    display: block;
 }
