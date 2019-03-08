@@ -52,5 +52,6 @@ h1 {
 }
 #banner {
    margin: auto;
+   display: block;
 }
 
