@@ -10,7 +10,6 @@ body {
 #audio {   
    margin: auto;
    display: block;
-   float: right;
 }
 #login {
    text-align: center;   
