@@ -1,62 +1,51 @@
 html {
    font-family: 'Raleway', sans-serif;
 }
-
 body {
    background-color: #efefef;
    font-size: 13pt;
    padding: 10px;
    margin: 0;
 }
-
 #audio {   
    margin: auto;
    display: block;
 }
-
 #login {
    text-align: center;   
    margin-top: 250px;
    margin-bottom: 300px;
- }
-
+}
 h1 span {
    border: 4px dashed #20bcd5;
    padding: 10px;
    font-family: 'Lobster';
 }
-
 h1 {
    font-size: 15pt;
    color: #20bcd5;
    padding: 18px 0;
    margin: 0 0 10px 0;
 }
-
 #contacts img {
     height: 50px;
     width: 50px;
     margin: 0 7px;
 }
-
 #contacts {
    text-align: center;
 }
-
 #contacts a {
   text-decoration: none  
 }
-
 #contacts img:hover {
    opacity: 0.5;
 }
-
 .section {
    background-color: #fff;  
    border-radius: 10px;
    padding: 15px;
 }
-
 #Top {
    background: #fff;
    border-radius: 10px;
