@@ -60,5 +60,6 @@ h1 {
 #Top {
    background: #fff;
    border-radius: 10px;
+   display: block;
 }
 
