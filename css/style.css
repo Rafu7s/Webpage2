@@ -47,7 +47,7 @@ h1 {
    padding: 15px;
 }
 #Top {
-   background: #fff;
+   background: #ca08ca;
    border-radius: 10px;
    padding: 15px;
 }
@@ -61,9 +61,7 @@ h1 {
    padding: 10px;
 }
 #menu-top {
-   position: absolute;
-   top: 10px;
-   right: 10px;
+ float: right
 }
 
 #menu-top a {
