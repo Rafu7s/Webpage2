@@ -56,11 +56,12 @@ h1 {
    display: block;
 }
 #footer {
-   background: #20bcd5;
+   background: #ca0818;
    text-align: center;
    padding: 10px;
    border-radius: 10px;
    font-size: 10pt;
+   margin-top: 15px;
 }
 #menu-top {
    float: right;
