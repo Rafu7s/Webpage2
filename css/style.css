@@ -9,6 +9,7 @@ body {
 }
 #audio {   
    float: right;
+   height: 55px;
 }
 #login {
    float: left;
