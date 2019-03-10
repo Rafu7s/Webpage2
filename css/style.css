@@ -67,6 +67,7 @@ h1 {
 }
 #menu-top {
    float: right;
+   padding: 10px;
 }
 #menu-top a {
    color: #20bcd5;
