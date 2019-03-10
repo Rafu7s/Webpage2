@@ -10,6 +10,7 @@ body {
 #audio {   
    float: right;
    height: 57px;
+   border-radius: 10px;
 }
 #login {
    float: left;
@@ -26,6 +27,7 @@ h1 {
    color: #fff;
    margin: 0;
    padding: 10px;
+   border-radius: 10px;
 }
 #contacts img {
     height: 50px;
@@ -81,12 +83,14 @@ h1 {
    padding: 10px;   
    margin: 15px 0;
    border-radius: 10px;
+   overflow: auto;
 }
 #left {
     background: #eeeeee;
     float: left;
     padding: 10px;
     width: 173px;
+   border-radius: 10px;
 }
 #left a {
     color: green;
@@ -95,5 +99,9 @@ h1 {
 }
 #left a:hover {
     color: #111111;
+}
+#body {
+    float: right;  
+   width: calc(100% - 220px);
 }
 
