@@ -1,17 +1,15 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
-  
-	  <meta content="text/html; charset=UTF-8">
-	  <title> Drugi Projekt </title>  
-	  <meta name="DESCRIPTION" content="Projekto duo numero">
-	  <link rel="stylesheet" type="text/css" href="css/style.css" media="all">
-	  <script src="js/javascript.js" type="text/javascript"> </script>
-	  <meta name="keywords" content="html, css, javascript, rafu7s">    <!--nieużywane-->
-	  <link href="https://fonts.googleapis.com/css?family=Lobster|Roboto" rel="stylesheet"> 
-	      
+	<head> 
+	   <meta content="text/html; charset=UTF-8">
+	   <title> Drugi Projekt </title>  
+	   <meta name="DESCRIPTION" content="Projekto duo numero">
+	   <link rel="stylesheet" type="text/css" href="css/style.css" media="all">
+	   <script src="js/javascript.js" type="text/javascript"> </script>
+	   <meta name="keywords" content="html, css, javascript, rafu7s">    <!--nieużywane-->
+	   <link href="https://fonts.googleapis.com/css?family=Lobster|Roboto" rel="stylesheet"> 	      
 	</head>	
-   <body>
+ <body>
 				<!--Top section-->  
 <div id="Top">
 	<div id="menu-top">
@@ -22,21 +20,29 @@
 	      <img src="img/Banner.png" alt="Top-banner" id="banner">				      
 </div>
 				<!--Main section-->
-<div id="main">	
-	<audio id="audio" controls="controls" autoplay="autoplay">
+<div id="main">		
+	<div id="left">
+		<form id="login" action="https://youtu.be/dQw4w9WgXcQ" method="POST">
+			Masz konto? Zaloguj się <br>
+			<input type="text" name="username" placeholder="wpisz login"> <br>
+			<input type="password" name="password" placeholder="podaj hasło"> <br>
+			<input type="submit" name="submit" value="Wyślij">
+		</form>
+			<div class="submenu">
+				<a href="#">menu 1</a>
+				<a href="#">menu 2</a>
+				<a href="#">menu 3</a>
+				<a href="#">menu 4</a>                 
+			</div>              
+	</div>
+		<audio id="audio" controls="controls" autoplay="autoplay">
 		<source src="audio/Niki.mp3" type="audio/mp3">
 		Niki & The Dove - Mother Protect (Goldroom Remix)
-	</audio>
+		</audio>
 	<script>
 		var audio = document.getElementById("audio");
 		audio.volume = 0.1;
 	</script>
-	<form id="login" action="https://youtu.be/dQw4w9WgXcQ" method="POST">
-		Masz konto? Zaloguj się <br>
-		<input type="text" name="username" placeholder="wpisz login"> <br>
-		<input type="password" name="password" placeholder="podaj hasło"> <br>
-		<input type="submit" name="submit" value="Wyślij">
-	</form>		
    <div id="body">
 	<h1>Lorem Ipsum</h1>
 	   "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
@@ -108,5 +114,5 @@
     </div>
 </div>
 	  <div id="footer">Copyright &copy; Rafu7s</div>	  			
-   </body>	
+ </body>	
 </html>
