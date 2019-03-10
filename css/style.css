@@ -105,3 +105,9 @@ h1 {
    width: calc(100% - 220px);
 }
 
+#cytat {
+   text-align: center;
+   font-style: italic;
+   margin-bottom: 35px;
+}
+
