@@ -67,12 +67,12 @@ h1 {
 }
 #menu-top {
    float: right;
-   padding: 10px;
 }
 #menu-top a {
    color: #20bcd5;
    text-decoration: none;
    font-size: 20px;
+   margin: 0 20px;
 }
 #menu-top a:hover {
    text-decoration: underline;
