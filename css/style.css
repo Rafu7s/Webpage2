@@ -13,6 +13,7 @@ body {
 }
 #login {
    float: left;
+   margin-bottom: 10px;
 }
 h1 span {
    border: 4px dashed #20bcd5;
