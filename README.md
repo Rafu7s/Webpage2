@@ -8,4 +8,4 @@ STATUS: In development
 
 
 
-[@see on gihhub.io](https://rafu7s.github.io/Webpage2/)
+[See on GitHub Page](https://rafu7s.github.io/Webpage2/)
