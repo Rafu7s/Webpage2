@@ -8,8 +8,7 @@ body {
    margin: 0;
 }
 #audio {   
-   margin: auto;
-   display: block;
+   float: right;
 }
 #login {
    float: left;
