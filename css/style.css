@@ -54,6 +54,8 @@ h1 {
 #banner {
    margin: auto;
    display: block;
+   max-width: 100%;
+   height: auto;
 }
 #footer {
    background: #ca0818;
