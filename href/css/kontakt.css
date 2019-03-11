@@ -24,3 +24,7 @@ textarea {
 #obrazek {
     height: 20%;
 }
+
+input, textarea {
+    margin-bottom: 10px;
+}
