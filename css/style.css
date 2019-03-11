@@ -16,11 +16,9 @@ body {
    float: left;
    margin-bottom: 10px;
 }
-
 #login input {
    max-width: 150px;
 }
-
 h3 span {
    border: 4px dashed #20bcd5;
    padding: 10px;
