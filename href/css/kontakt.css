@@ -1,9 +1,9 @@
 body {
     background: #efefef;
 }
-
 .sekcja {
     text-align: center;
+    margin: 110px 600px;
     background-color: #fff;
     border-radius: 70px;
-    }
+}
