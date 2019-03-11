@@ -31,4 +31,5 @@ input, textarea {
     border: 1px solid #cecece;
     background-color: #efefef;
     color: #787575;
+    border-radius: 5px;
 }
