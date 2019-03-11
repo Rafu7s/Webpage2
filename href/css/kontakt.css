@@ -28,4 +28,5 @@ textarea {
 input, textarea {
     margin-bottom: 10px;
     font-size: 11pt;
+    padding: 15px 10px 10px;
 }
