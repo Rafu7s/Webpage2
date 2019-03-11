@@ -10,6 +10,16 @@ body {
     font-family: 'Handlee' , cursive;
     padding: 15px;
 }
+@media screen and (max-width: 1650px) {
+  .sekcja {
+          font-size: 11pt;
+          margin: 1px;
+          min-height: 90%;       
+          }
+  input, textarea {
+          max-width: 500px;  
+          }
+}
 h1 span {
     border: 4px dashed #20bcd5;
     padding: 10px;
