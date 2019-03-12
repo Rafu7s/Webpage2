@@ -44,3 +44,12 @@ input, textarea {
     border-radius: 5px;
     width: 70%;
 }
+.submit {
+    background-color: #3fb6b2;
+    padding: 12px 0px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    font-weight: bold;
+    width: 50%;
+}
