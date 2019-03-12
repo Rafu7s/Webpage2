@@ -52,4 +52,5 @@ input, textarea {
     border: none;
     font-weight: bold;
     width: 50%;
+    max-width: 25%;
 }
