@@ -54,7 +54,7 @@ input, textarea {
     max-width: 25%;
 }
 .xxx {
-    loat: right;
+    float: right;
     margin-right: 20px;
     margin-top: 20px;            
 }
