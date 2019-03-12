@@ -11,14 +11,19 @@ body {
     padding: 15px;
 }
 @media screen and (max-width: 1650px) {
-  .sekcja {
+    .sekcja {
           font-size: 11pt;
           margin: 50px 30px 0px 30px;
           min-height: 70%;       
-  }
-  input, textarea {
+     }
+     input, textarea {
           max-width: 500px;  
-  }
+     }
+}
+@media screen and (max-width: 450px) { 
+    .sekcja {
+           margin: 0;
+    }      
 }
 h1 span {
     border: 4px dashed #20bcd5;
