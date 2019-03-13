@@ -107,7 +107,7 @@ h1 {
 }
 #body {
    float: right;  
-   width: calc(100% - 220px);
+   width: calc(100% - 203px);
 }
 #cytat {
    text-align: center;
