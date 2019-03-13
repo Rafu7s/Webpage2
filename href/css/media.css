@@ -1,1 +1,29 @@
-
+body {
+    background-color: #efefef;
+    padding: 10px;
+    margin: 0;
+}
+.section {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+.section iframe {
+    max-width: 100%; 
+    margin-top: 60px;    
+}
+.section video {
+    max-width: 100%;      
+}
+h1 {
+    font-size: 30pt;
+    color: #20bcd5;
+    padding: 18px 0 18px 0;
+    margin-bottom: auto;  
+    margin-top: 40px;
+}
+h1 span {
+    border: 4px dashed #20bcd5;
+    padding: 10px;    
+}
