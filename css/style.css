@@ -117,5 +117,13 @@ h1 {
 #content {
    text-align: justify;
 }
-
+@media only screen and (max-width: 680px) {
+   #left { width: 100%; padding: 0px;}
+   #body {width: 100%;}
+   #audio {width: 100%;}
+   #login input {text-align: center; max-width: 80%;}
+   #main {text-align: center;}
+   #login {margin-top: 6px;}
+   .submenu {margin-top: 9px;}
+ }
 
