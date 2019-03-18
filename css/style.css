@@ -54,7 +54,7 @@ h1 {
    padding: 15px;
 }
 #Top {
-   background-image url(https://images.pexels.com/photos/210583/pexels-photo-210583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);  /*alternatywnie #ca0818*/
+   background-image: url(https://images.pexels.com/photos/210583/pexels-photo-210583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);  /*alternatywnie #ca0818*/
    border-radius: 10px;
    padding: 15px;
 }
