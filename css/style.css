@@ -65,7 +65,7 @@ h1 {
    height: auto;
 }
 #footer {
-   background: #ca0818;    
+   background: #666666;          /*alternatywnie #ca0818*/   
    text-align: center;
    padding: 10px;
    border-radius: 10px;
