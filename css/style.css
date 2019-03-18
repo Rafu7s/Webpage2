@@ -57,6 +57,7 @@ h1 {
    background: #ca0818;
    border-radius: 10px;
    padding: 15px;
+   background-image: url("https://images.pexels.com/photos/210583/pexels-photo-210583.jpeg"); /*alternatywne*/
 }
 #banner {
    margin: auto;
