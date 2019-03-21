@@ -83,6 +83,9 @@ h1 {
 #menu-top a:hover {
    text-decoration: underline;
 }
+#menu-top a:after {
+   content: "|"
+}
 #main {
    background: #fff;
    padding: 10px;   
