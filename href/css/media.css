@@ -11,7 +11,7 @@ body {
 }
 .section iframe {
     max-width: 100%; 
-        
+       
     margin: 10px 0px;
 }
 .section video {
@@ -27,7 +27,9 @@ h1 {
 }
 h1 span {
     border: 4px dashed #20bcd5;
-    padding: 10px;    
+    padding: 10px;  
+    
+    margin-bottom: 60px;
 }
 .xxx {
     float: right;
