@@ -21,17 +21,13 @@ body {
 h1 {
     font-size: 30pt;
     color: #20bcd5;
-    padding: 18px 0 18px 0;
-     
-    margin-top: 40px;
-    
+    padding: 18px 0 18px 0;     
+    margin-top: 40px;    
     margin-bottom: 60px;
 }
 h1 span {
     border: 4px dashed #20bcd5;
     padding: 10px;  
-    
-    margin-bottom: 60px;
 }
 .xxx {
     float: right;
