@@ -12,9 +12,11 @@ body {
 .section iframe {
     max-width: 100%; 
     margin-top: 60px;    
+    margin: 10px 0px;
 }
 .section video {
     max-width: 100%;  
+    margin: 10px 0px;
 }
 h1 {
     font-size: 30pt;
@@ -40,15 +42,5 @@ h1 span {
 img {
     max-width: 100%;
     height: auto;
-    margin: 10px 0px;
-}
-video {
-    max-width: 100%;
-    
-    margin: 10px 0px;
-}
-iframe {
-     max-width: 100%;
-    
     margin: 10px 0px;
 }
