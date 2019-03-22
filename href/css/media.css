@@ -42,3 +42,8 @@ img {
     height: auto;
     margin: 10px 0px;
 }
+video {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0px;
+}
