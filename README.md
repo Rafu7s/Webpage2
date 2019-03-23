@@ -5,6 +5,7 @@ Webpage
 
 STATUS: In development
 <br>
+Użyte technologie: HTML, CSS, Javascript, RWD
 
 
 
