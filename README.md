@@ -4,7 +4,7 @@ Webpage
 
 
 STATUS: In development
-<br>
+<br><br>
 Użyte technologie: HTML, CSS, Javascript, RWD
 <br>
 
