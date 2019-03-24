@@ -52,6 +52,7 @@ h1 {
    background-color: #fff;  
    border-radius: 10px;
    padding: 15px;
+   box-shadow: 0px 3px 10px lightblue;
 }
 #Top {
    background-image: url(https://images.pexels.com/photos/210583/pexels-photo-210583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);  /*alternatywnie #ca0818*/
