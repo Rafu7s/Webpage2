@@ -123,6 +123,9 @@ h1 {
 #content {
    text-align: justify;
 }
+#content a {
+   text-decoration: none;
+}
 @media only screen and (max-width: 680px) {
    #left { width: 100%; padding: 0px;}
    #body {width: 100%;}
@@ -132,4 +135,3 @@ h1 {
    #login {margin-top: 6px;}
    .submenu {margin-top: 9px;}
  }
-
