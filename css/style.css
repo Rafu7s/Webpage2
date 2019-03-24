@@ -58,7 +58,6 @@ h1 {
    background-image: url(https://images.pexels.com/photos/210583/pexels-photo-210583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);  /*alternatywnie #ca0818*/
    border-radius: 10px;
    padding: 15px;
-   box-shadow: 0px 3px 10px lightblue;
 }
 #banner {
    margin: auto;
@@ -73,7 +72,6 @@ h1 {
    border-radius: 10px;
    font-size: 10pt;
    margin-top: 15px;
-   box-shadow: 0px 3px 10px lightblue;
 }
 #menu-top {
    float: right;
