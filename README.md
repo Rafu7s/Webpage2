@@ -5,7 +5,7 @@ Webpage
 
 STATUS: In development
 <br><br>
-Technology used: HTML5, CSS, Javascript, RWD
+Technology used: HTML5, CSS, JS, RWD
 <br>
 Programs used: Visual Studio Code
 
