@@ -32,6 +32,7 @@ h1 {
    padding: 10px;
    border-radius: 10px;
    text-align: center;
+   box-shadow: 0px 3px 10px lightblue;
 }
 #contacts img {
    height: 50px;
@@ -74,6 +75,7 @@ h1 {
 }
 #menu-top {
    float: right;
+   box-shadow: 0px 1px 10px lightblue;
 }
 #menu-top a {
    color: #20bcd5;
