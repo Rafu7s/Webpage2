@@ -137,6 +137,7 @@ h1 {
 }
 table, tr, td {
    border: 1px solid;  
+   padding: 5px;
 }
 table {
    border-collapse: collapse;
