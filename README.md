@@ -3,7 +3,7 @@ Webpage
 
 
 
-STATUS: In development
+STATUS: Open
 <br><br>
 Technology used: HTML5, CSS, JS, RWD
 <br>
